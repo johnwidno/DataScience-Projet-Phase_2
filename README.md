@@ -46,7 +46,7 @@ Grouping by Genres
 - Action
 - Adventure
 - Comedy
- The most successful genres (production_budget and worldwide_gross
+  The most successful genres (production_budget and worldwide_gross
 - Action
 - Adventure
 - Drama
