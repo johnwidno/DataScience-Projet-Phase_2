@@ -28,11 +28,16 @@ Our analysis combines IMDb's comprehensive movie metadata (ratings, genres, runt
 
 # visualizations 
 Interactive DAshboard Build with Power BI 
+<img width="1303" height="732" alt="Screenshot 2025-07-27 073838" src="https://github.com/user-attachments/assets/da9ab96d-b5f5-40f5-8cc9-daa9705668e2" />
 
 
 Visualisation Presented in te NoteBook
-![my_plot](https://github.com/user-attachments/assets/18963637-b5a0-4a8c-85e8-5915f28925ed)
 
+<img width="1200" height="600" alt="my_plot1" src="https://github.com/user-attachments/assets/b0a950cf-c1db-4c0f-9395-34bfbf8e6a40" />
+
+<img width="1200" height="600" alt="my_plot2" src="https://github.com/user-attachments/assets/36b45e34-36cf-4b0a-8f1c-44f36697b5ab" />
+<img width="1200" height="600" alt="my_plot3" src="https://github.com/user-attachments/assets/2a808d6a-fb53-42a3-a665-5ec962c67c27" />
+<img width="1200" height="600" alt="my_plot4" src="https://github.com/user-attachments/assets/85f1b617-8683-464a-976d-b0ea7bd7005d" />
 
 # Summary 
 Business Movie Summary
