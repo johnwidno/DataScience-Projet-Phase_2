@@ -42,14 +42,14 @@ Visualisation Presented in te NoteBook
 # Summary 
 Business Movie Summary
 Grouping by Genres
-• Drama 
-• Action
-• Adventure
-• Comedy
+- Drama 
+- Action
+- Adventure
+- Comedy
  The most successful genres (production_budget and worldwide_gross
-• Action
-• Adventure 
-• Drama,
-• comedy
-• Thriller
+- Action
+- Adventure
+- Drama
+- comedy
+- Thriller
 Based on the Production Budget and Aorldwide Gross , we recommend producing Movie such as the movies below.
